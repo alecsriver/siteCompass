@@ -10,3 +10,35 @@
     position: relative;
     background-size: cover;
 }
+
+body {
+    background-image: url("../img/Patron.png");
+    background-repeat: repeat;
+}
+
+#login{
+    width: 485px;
+    height: 75px;
+    position: absolute;
+    left: 0px;
+    top: 310px;
+    cursor: pointer;
+}
+
+#richmond{
+    width: 280px;
+    height: 60px;
+    position: absolute;
+    left: 45px;
+    top: 75px;
+    cursor: pointer;
+}
+
+#myon{
+    width: 165px;
+    height: 65px;
+    position: absolute;
+    left: 103px;
+    top: 630px;
+    cursor: pointer;
+}
